@@ -1,0 +1,30 @@
+CRIME CATEGORY: UPI PAYMENT FRAUD
+
+1. CRIME DESCRIPTION:
+This incident occurs when a scammer tricks a person into sending money using UPI apps such as Google Pay, PhonePe, Paytm, or BHIM. The fraud often involves fake payment screenshots, misleading “collect request” notifications, or impersonation.
+
+2. IMMEDIATE STEPS (ACTION ROADMAP):
+- Contact your bank and request transaction hold.
+- Report the fraud via https://cybercrime.gov.in.
+- Call Cyber Helpline 1930 to register the case.
+- Change UPI PIN and secure bank passwords.
+
+3. APPLICABLE BNS / IPC / OTHER LEGAL SECTIONS:
+- BNS 318 (formerly IPC 420) Cheating.
+- BNS 314 (formerly IPC 417) Simple Cheating.
+- IT Act 66D: Impersonation using electronic means.
+
+4. FIR PROCEDURE:
+- Submit online complaint at https://cybercrime.gov.in.
+- Then visit Police Station/Cyber Cell to convert to FIR.
+
+5. EVIDENCE TO COLLECT:
+- Transaction ID, chat history, screenshots, bank statement.
+
+6. AUTHORITIES TO CONTACT:
+- Cyber Helpline: 1930
+- National Cyber Crime Portal: https://cybercrime.gov.in
+
+7. MAIL DRAFT:
+Subject: Complaint About UPI Fraud Transaction
+I, <Name>, was defrauded of Rs. <Amount> by UPI transaction on <Date>. Evidence attached. Please take action.

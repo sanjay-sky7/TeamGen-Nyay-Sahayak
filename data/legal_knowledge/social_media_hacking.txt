@@ -1,0 +1,21 @@
+CRIME CATEGORY: SOCIAL MEDIA ACCOUNT HACKING
+
+1. DESCRIPTION:
+Unauthorized access to social media accounts.
+
+2. IMMEDIATE STEPS:
+- Reset password and enable two-factor authentication.
+- Report account as hacked in platform support.
+
+3. SECTIONS:
+- IT Act 66C, 66D
+- BNS 336 (Defamation if misuse)
+
+4. FIR:
+- File complaint at https://cybercrime.gov.in.
+
+5. EVIDENCE:
+- Login logs and screenshots.
+
+6. CONTACT:
+- Cyber Helpline: 1930

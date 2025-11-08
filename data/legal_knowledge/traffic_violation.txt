@@ -1,0 +1,16 @@
+CRIME CATEGORY: TRAFFIC VIOLATION
+
+1. DESCRIPTION:
+Speeding, no helmet, signal jump.
+
+2. STEPS:
+- Request official challan receipt.
+
+3. SECTIONS:
+- Motor Vehicles Act
+
+4. FIR:
+- Only if injury/death; else challan.
+
+5. CONTACT:
+- 112 / Local Traffic Police

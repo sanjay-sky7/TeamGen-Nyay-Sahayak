@@ -1,0 +1,25 @@
+CRIME CATEGORY: OTP THEFT / FAKE VERIFICATION CALL
+
+1. CRIME DESCRIPTION:
+Scammers pretend to be bank/company officials and ask for OTP to gain account access.
+
+2. IMMEDIATE STEPS:
+- Do not share OTP.
+- Change banking/email passwords.
+- Call your bank to freeze your account temporarily.
+
+3. LEGAL SECTIONS:
+- IT Act 66C (Identity Theft)
+- IT Act 66D (Electronic Impersonation)
+- BNS 316 (formerly IPC 419) Impersonation.
+
+4. FIR PROCEDURE:
+- File complaint on https://cybercrime.gov.in.
+- Visit Police Station to convert to FIR.
+
+5. EVIDENCE TO COLLECT:
+- Call logs, screenshots, SMS alerts.
+
+6. CONTACT:
+- Cyber Helpline: 1930
+- Police: 112
